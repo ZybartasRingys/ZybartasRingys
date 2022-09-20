@@ -27,8 +27,7 @@
 
 
 <h1 align="center">GITHUB STATS</h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ZybartasRingys=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zybartasringys&theme=dark&show_icons=true)
 
 <!---
 ZybartasRingys/ZybartasRingys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
