@@ -4,6 +4,14 @@
 - :alien: I'm going for MERN stack
 - 📫 How to reach me DeveloperZR92@gmail.com
 
+<h1 align="center">SOCIAL</h1>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/%C5%BEybartas-ringys/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+
+
+
+
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 4rem; background-color:white"/>
