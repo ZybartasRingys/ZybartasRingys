@@ -25,6 +25,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 </p>
 
+
+<h1 align="center">GITHUB STATS</h1>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ZybartasRingys=anuraghazra&theme=dark&show_icons=true)
+
 <!---
 ZybartasRingys/ZybartasRingys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
