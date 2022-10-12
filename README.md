@@ -26,6 +26,8 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/%C5%BEybartas-ringys/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+<a href="https://www.frontendmentor.io/profile/ZybartasRingys" target="blank">FRONTEND MENTOR</a>
+</div>
 
 <h1 align="center">GITHUB STATS</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Zybartasringys&theme=blueberry=true" alt="shwetangStats" />  
