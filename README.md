@@ -26,7 +26,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/%C5%BEybartas-ringys/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
-<a href="https://www.frontendmentor.io/profile/ZybartasRingys" target="blank">FRONTEND MENTOR</a>
+<a href="https://www.frontendmentor.io/profile/ZybartasRingys" target="blank"><img src="https://www.frontendmentor.io/static/images/logo-desktop.svg" style="height: 3rem" /></a>
 </div>
 
 <h1 align="center">GITHUB STATS</h1>
