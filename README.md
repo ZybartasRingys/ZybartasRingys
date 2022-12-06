@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ŽybartasRingys, Coder with passion for learning new things about web development.
+- 👋 Hi, I’m @ŽybartasRingys, Coder with passion for learning new things about programming.
 - :computer: I'm currently working on MERN Stack.
 - 📫 How to reach me DeveloperZR92@gmail.com
 
