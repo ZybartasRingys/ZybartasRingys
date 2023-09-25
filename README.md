@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ŽybartasRingys, Coder with passion for learning new things about programming.
-- :computer: I'm currently working on MERN Stack.
+- :computer: I'm currently working on React Typescript.
 - 📫 How to reach me DeveloperZR92@gmail.com
 
 
